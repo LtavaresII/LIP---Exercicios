@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521644978 source:c:\users\user01\desktop\teste\biblioteca.cpp
+	"Biblioteca.h"
+	<iostream>
+
+1521644774 source:c:\users\user01\desktop\teste\main.cpp
+	"Biblioteca.h"
+	<iostream>
+
+1521642732 c:\users\user01\desktop\teste\biblioteca.h
+
