@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522764969 source:c:\users\user37\documents\revisão\revisão.cpp\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
