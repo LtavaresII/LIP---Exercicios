@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523476885 source:/home/lab41dm/Documentos/Lab/Questões/main.cpp
+	<iostream>
+	"math.h"
+
+1523477354 source:/home/lab41dm/Documentos/Lab/Questões/Questão2.cpp
+	<iostream>
+	"math.h"
+
