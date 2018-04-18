@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524084126 source:/home/lab42dp/Documentos/Lab.8/Questão2/main.cpp
+	<iostream>
+	"math.h"
+	<cstdlib>
+	<ctime>
+
