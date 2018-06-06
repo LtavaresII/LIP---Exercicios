@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528290283 source:/home/lab16dm/Documentos/QR/QR1/main.cpp
+	<iostream>
+	<cstring>
+
