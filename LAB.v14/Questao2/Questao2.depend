@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528320802 source:/home/lab42dc/Documentos/LAB.v14/Questao2/main.cpp
+	<iostream>
+	<cstring>
+
