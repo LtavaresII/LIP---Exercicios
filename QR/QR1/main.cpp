@@ -42,9 +42,9 @@ bool PalindromoPerfeito(char V[MAX_L][MAX_C],int n)
             T[j][i]=V[i][j];
         }
     }
-    for(int j=0; j<n; j++)
+    for(int i=0; i<n; i++)
     {
-        m=strlen(V[j]);
+        m=strlen(V[i]);
     }
     if(n==m)
     {
