@@ -21,6 +21,6 @@ int main()
    for(int i=0;i<P.n-1;i++){
       P.A=((P.x[i+1]-P.x[i])*(P.y[i+1]-P.y[i]))/2;
    }
-      cout << "Area do Poligono: "<<P.A<< endl;
+      cout << "Area do Poligono: "<<abs(P.A)<< endl;
     return 0;
 }
