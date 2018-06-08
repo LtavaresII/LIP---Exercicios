@@ -17,10 +17,6 @@ int RetornaBin(int bin,int n)
     {
         return 0;
     }
-    else if(bin==10)
-    {
-        return 2;
-    }
     else
     {
         return (bin%10)*n + RetornaBin(bin/10,n*2);
