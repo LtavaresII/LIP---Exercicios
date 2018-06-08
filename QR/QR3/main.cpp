@@ -3,8 +3,8 @@
 using namespace std;
 
 struct Area{
-  int x[MAX];
-  int y[MAX];
+  float x[MAX];
+  float y[MAX];
   int n;
   float A;
 };
